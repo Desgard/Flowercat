@@ -1,27 +1,27 @@
 [
     {
-        "name": "Theme-1",
+        "name": "Desert.vim",
         "color-scheme": {
-            "bar-color": "#DF0000",
-            "tabbar-color": "#34C0D8",
-            "back-color": "#25262A",
-            "title-color": "#fefefe",
-            "switch-color": "#FFC600",
+            "bar-color": "#282828",
+            "tabbar-color": "#282828",
+            "back-color": "#484848",
+            "title-color": "#FFFDD0",
+            "switch-color": "#87CEEB",
             "text-color": "#D8D8D8",
-            "text-show-color": "#D0D0D0",
-            "text-light-color": "#0B9189",
-            "text-highlight-color": "#DBAB06",
-            "text-highhighlight-color": "#B72346",
-            "text-link-color": "#71AD00",
-            "button-normal-color": "#2B3339",
-            "button-selected-color": "#445059",
+            "text-show-color": "#464467",
+            "text-light-color": "#CAE682",
+            "text-highlight-color": "#FFDAAB",
+            "text-highhighlight-color": "#FFA0A0",
+            "text-link-color": "##53DCCD",
+            "button-normal-color": "#FFFDD0",
+            "button-selected-color": "#FFDAAB",
             "shadow-color": "#000000"
         },
         "status-bar-style": "light-content",
-        "user-login": "Sepicat",
-        "user-avatar-url": "https://avatars1.githubusercontent.com/u/4161013",
-        "repo-fullname": "Nintendo®",
-        "repo-introduce": "On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.\n\n -Iwata-san"
+        "user-login": "Desgard",
+        "user-avatar-url": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+        "repo-fullname": "fugalh/desert.vim",
+        "repo-introduce": "Vim 的经典原生配色。"
     },
     {
         "name": "Theme-2",
@@ -49,30 +49,6 @@
     },
     {
         "name": "Theme-3",
-        "color-scheme": {
-            "bar-color": "#DF0000",
-            "tabbar-color": "#34C0D8",
-            "back-color": "#25262A",
-            "title-color": "#fefefe",
-            "switch-color": "#FFC600",
-            "text-color": "#D8D8D8",
-            "text-show-color": "#D0D0D0",
-            "text-light-color": "#0B9189",
-            "text-highlight-color": "#DBAB06",
-            "text-highhighlight-color": "#B72346",
-            "text-link-color": "#71AD00",
-            "button-normal-color": "#2B3339",
-            "button-selected-color": "#445059",
-            "shadow-color": "#000000"
-        },
-        "status-bar-style": "light-content",
-        "user-login": "Sepicat",
-        "user-avatar-url": "https://avatars1.githubusercontent.com/u/4161013",
-        "repo-fullname": "Nintendo®",
-        "repo-introduce": "On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.\n\n -Iwata-san"
-    },
-    {
-        "name": "Theme-4",
         "color-scheme": {
             "bar-color": "#DF0000",
             "tabbar-color": "#34C0D8",
