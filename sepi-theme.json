@@ -12,7 +12,7 @@
             "text-light-color": "#CAE682",
             "text-highlight-color": "#FFDAAB",
             "text-highhighlight-color": "#FFA0A0",
-            "text-link-color": "##53DCCD",
+            "text-link-color": "#53DCCD",
             "button-normal-color": "#FFFDD0",
             "button-selected-color": "#FFDAAB",
             "shadow-color": "#000000"
