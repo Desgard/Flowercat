@@ -1,7 +1,16 @@
 {
     "theme": {
-        "Featured": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme.json",
-        "Vim": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-vim.json",
-        "Emacs": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-emacs.json"
+        "Featured": {
+            "image": "https://avatars0.githubusercontent.com/u/35451588?s=200&v=4",
+            "url": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme.json"
+        },
+        "Vim": {
+            "image": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+            "url": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-vim.json"
+        },
+        "Emacs": {
+            "image": "https://raw.githubusercontent.com/github/explore/f090041c611aee2a399eb2591e4f522713f62b50/topics/emacs/emacs.png",
+            "url": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-emacs.json"
+        }
     }
 }
