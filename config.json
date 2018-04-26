@@ -1,0 +1,7 @@
+{
+    "theme": {
+        "Featured": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme.json",
+        "Vim": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-vim.json",
+        "Emacs": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-emacs.json"
+    }
+}
