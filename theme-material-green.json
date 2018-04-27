@@ -13,8 +13,8 @@
             "text-highlight-color": "#1F2021",
             "text-highhighlight-color": "#D54742",
             "text-link-color": "#3A81F5",
-            "button-normal-color": "#109D58",
-            "button-selected-color": "#8B8B8B",
+            "button-normal-color": "#8B8B8B",
+            "button-selected-color": "#109D58",
             "shadow-color": "#181818"
         },
         "status-bar-style": "light-content",
