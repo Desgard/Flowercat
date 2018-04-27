@@ -17,6 +17,8 @@
 
 在 *Sepicat* App 启动后，会根据 Source 来读取 **Flowercat** 配置，即 `****/Flowercat/config.json` 文件作为 App 的 **FlowercatConfig**。不做 Source 修改的情况下，App 将默认使用 *Sepicat/Flowercat* 中的全部配置。我们可以在 **Sepicat** 中 `Tools -> Setting -> Flowercat` 来进行修改 Source 操作。
 
+![Introduce](Screenshot/introduce.png)
+
 ### 自定义 Source
 
 将 `Sepicat/Flowercat` Fork 到自己的 Repo 中，修改其配置文件即可。
@@ -97,6 +99,8 @@ desert.vim 的配色）:
 * user-avatar-url: 作者 GitHub Image 头像（当然你也可以填自定义的图）
 * repo-fullname: 相关信息（如果你填写了 GitHub Name 的格式，便可在介绍野种实现跳转）
 * repo-introduce: Theme 简介信息
+
+![theme](Screenshot/theme.png)
 
 
 ## Flowercat 社区
