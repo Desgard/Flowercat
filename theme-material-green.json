@@ -4,8 +4,8 @@
         "color-scheme": {
             "bar-color": "#109D58",
             "tabbar-color": "#109D58",
-            "back-color": "#BDBDBD",
-            "title-color": "#EEEEEE",
+            "back-color": "#EEEEEE",
+            "title-color": "#FEFEFE",
             "switch-color": "#6F6F6F",
             "text-color": "#E040FB",
             "text-show-color": "#6F6F6F",
@@ -13,7 +13,7 @@
             "text-highlight-color": "#1F2021",
             "text-highhighlight-color": "#D54742",
             "text-link-color": "#DC4437",
-            "button-normal-color": "#FEFFFF",
+            "button-normal-color": "#FEFEFE",
             "button-selected-color": "#EEEEEE",
             "shadow-color": "#181818"
         },
