@@ -12,9 +12,9 @@
             "image": "https://raw.githubusercontent.com/github/explore/f090041c611aee2a399eb2591e4f522713f62b50/topics/emacs/emacs.png",
             "url": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-emacs.json"
         },
-        "Material-light": {
+        "Material-green": {
             "image": "https://avatars3.githubusercontent.com/u/16975429?s=400a&v=4",
-            "url": "https://raw.githubusercontent.com/oneofai/Flowercat/master/theme-material-light.json"
+            "url": "https://raw.githubusercontent.com/oneofai/Flowercat/master/theme-material-green.json"
         }
     }
 }
