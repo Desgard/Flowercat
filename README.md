@@ -97,7 +97,7 @@ desert.vim 的配色）:
 * status-bar-style: iOS 状态栏样式，仅有两种可选，白[light-content]、黑[default]
 * user-login: 作者 GitHub Login Id
 * user-avatar-url: 作者 GitHub Image 头像（当然你也可以填自定义的图）
-* repo-fullname: 相关信息（如果你填写了 GitHub Name 的格式，便可在介绍野种实现跳转）
+* repo-fullname: 相关信息（如果你填写了 GitHub Name 的格式，便可在介绍页实现跳转）
 * repo-introduce: Theme 简介信息
 
 ![theme](Screenshot/theme.png)
