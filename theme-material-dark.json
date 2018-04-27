@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Material-dark",
+        "color-scheme": {
+            "bar-color": "#616161",
+            "tabbar-color": "#616161",
+            "back-color": "#212121",
+            "title-color": "#FFFFFF",
+            "switch-color": "#FFCC00",
+            "text-color": "#A8A8A8",
+            "text-show-color": "#FFFDD0",
+            "text-light-color": "#CAE682",
+            "text-highlight-color": "#FFDAAB",
+            "text-highhighlight-color": "#FFA0A0",
+            "text-link-color": "#53DCCD",
+            "button-normal-color": "#FFFDD0",
+            "button-selected-color": "#FFDAAB",
+            "shadow-color": "#000030"
+        },
+        "status-bar-style": "light-content",
+        "user-login": "oneofai",
+        "user-avatar-url": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+        "repo-fullname": "equinusocio/vsc-material-theme",
+        "repo-introduce": "VSCode 的 Material 主题配色."
+    }
+]
