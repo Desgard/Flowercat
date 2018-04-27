@@ -13,8 +13,8 @@
             "text-highlight-color": "#FFDAAB",
             "text-highhighlight-color": "#FFA0A0",
             "text-link-color": "#53DCCD",
-            "button-normal-color": "#FFFDD0",
-            "button-selected-color": "#FFDAAB",
+            "button-normal-color": "#B2CCD6",
+            "button-selected-color": "#B2CFE5",
             "shadow-color": "#000030"
         },
         "status-bar-style": "light-content",
