@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Desert.vim",
+        "color-scheme": {
+            "bar-color": "#282828",
+            "tabbar-color": "#282828",
+            "back-color": "#484848",
+            "title-color": "#FFFDD0",
+            "switch-color": "#87CEEB",
+            "text-color": "#D8D8D8",
+            "text-show-color": "#FFFDD0",
+            "text-light-color": "#CAE682",
+            "text-highlight-color": "#FFDAAB",
+            "text-highhighlight-color": "#FFA0A0",
+            "text-link-color": "#53DCCD",
+            "button-normal-color": "#FFFDD0",
+            "button-selected-color": "#FFDAAB",
+            "shadow-color": "#000000"
+        },
+        "status-bar-style": "light-content",
+        "user-login": "Desgard",
+        "user-avatar-url": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+        "repo-fullname": "fugalh/desert.vim",
+        "repo-introduce": "Vim 的经典原生配色。"
+    }
+]

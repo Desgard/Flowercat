@@ -24,51 +24,27 @@
         "repo-introduce": "Vim 的经典原生配色。"
     },
     {
-        "name": "Theme-2",
+        "name": "Zenburn",
         "color-scheme": {
-            "bar-color": "#DF0000",
-            "tabbar-color": "#34C0D8",
-            "back-color": "#25262A",
+            "bar-color": "#505050",
+            "tabbar-color": "#505050",
+            "back-color": "#404040",
             "title-color": "#fefefe",
             "switch-color": "#FFC600",
-            "text-color": "#D8D8D8",
-            "text-show-color": "#D0D0D0",
-            "text-light-color": "#0B9189",
-            "text-highlight-color": "#DBAB06",
-            "text-highhighlight-color": "#B72346",
-            "text-link-color": "#71AD00",
-            "button-normal-color": "#2B3339",
-            "button-selected-color": "#445059",
+            "text-color": "#C0C0C0",
+            "text-show-color": "#F6F3E8",
+            "text-light-color": "#DFBE95",
+            "text-highlight-color": "#CC9393",
+            "text-highhighlight-color": "#8ACCCF",
+            "text-link-color": "#53DCCD",
+            "button-normal-color": "#BCADAD",
+            "button-selected-color": "#CC9393",
             "shadow-color": "#000000"
         },
         "status-bar-style": "light-content",
         "user-login": "Sepicat",
-        "user-avatar-url": "https://avatars1.githubusercontent.com/u/4161013",
-        "repo-fullname": "Nintendo®",
-        "repo-introduce": "On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.\n\n -Iwata-san"
-    },
-    {
-        "name": "Theme-3",
-        "color-scheme": {
-            "bar-color": "#DF0000",
-            "tabbar-color": "#34C0D8",
-            "back-color": "#25262A",
-            "title-color": "#fefefe",
-            "switch-color": "#FFC600",
-            "text-color": "#D8D8D8",
-            "text-show-color": "#D0D0D0",
-            "text-light-color": "#0B9189",
-            "text-highlight-color": "#DBAB06",
-            "text-highhighlight-color": "#B72346",
-            "text-link-color": "#71AD00",
-            "button-normal-color": "#2B3339",
-            "button-selected-color": "#445059",
-            "shadow-color": "#000000"
-        },
-        "status-bar-style": "light-content",
-        "user-login": "Sepicat",
-        "user-avatar-url": "https://avatars1.githubusercontent.com/u/4161013",
-        "repo-fullname": "Nintendo®",
-        "repo-introduce": "On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.\n\n -Iwata-san"
+        "user-avatar-url": "https://avatars2.githubusercontent.com/u/7804535",
+        "repo-fullname": "bbatsov/zenburn-emacs",
+        "repo-introduce": "Zenburn for Emacs is a direct port of the popular Zenburn theme for vim, developed by Jani Nurminen. It's my personal belief (and that of its many users I presume) that it's one of the best low contrast color themes out there and that it is exceptionally easy on the eyes."
     }
 ]
