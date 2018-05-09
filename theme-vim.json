@@ -21,6 +21,30 @@
         "user-login": "Desgard",
         "user-avatar-url": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
         "repo-fullname": "fugalh/desert.vim",
-        "repo-introduce": "Vim 的经典原生配色。"
+        "repo-introduce": "Hans Fugal: I started with the evening colorscheme included in the distro, and tweaked a few colors to my liking. Then I decided to do a major overhaul and give the whole thing a desert evening sort of feel. I find it a very pleasing, easy-on-the-eyes theme."
+    },
+    {
+        "name": "Vivid Chalk",
+        "color-scheme": {
+            "bar-color": "#222220",
+            "tabbar-color": "#222220",
+            "back-color": "#414C3B",
+            "title-color": "#FFFFFF",
+            "switch-color": "#FF6600",
+            "text-color": "#616161",
+            "text-show-color": "#FFFFFF",
+            "text-light-color": "#FF6600",
+            "text-highlight-color": "#CCFF33",
+            "text-highhighlight-color": "#FFA0A0",
+            "text-link-color": "#F1C436",
+            "button-normal-color": "#E3B735",
+            "button-selected-color": "#FF6600",
+            "shadow-color": "#000000"
+        },
+        "status-bar-style": "light-content",
+        "user-login": "Desgard",
+        "user-avatar-url": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+        "repo-fullname": "tpope/vim-vividchalk",
+        "repo-introduce": "This colorscheme is based on the Vibrant Ink theme for TextMate. The original theme was biased towards Ruby on Rails and this colorscheme continues that tradition.  In addition to the GUI, 256, 88, and even 16 color terminals are all supported. "
     }
 ]
