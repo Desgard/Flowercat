@@ -1,9 +1,5 @@
 {
     "theme": {
-        "Featured": {
-            "image": "https://avatars0.githubusercontent.com/u/35451588?s=200&v=4",
-            "url": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme.json"
-        },
         "Vim": {
             "image": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
             "url": "https://raw.githubusercontent.com/Sepicat/Flowercat/master/theme-vim.json"
