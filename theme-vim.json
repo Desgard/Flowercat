@@ -19,8 +19,80 @@
         },
         "status-bar-style": "light-content",
         "user-login": "Desgard",
-        "user-avatar-url": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+        "user-avatar-url": "https://avatars3.githubusercontent.com/u/16975429?s=400a&v=4",
         "repo-fullname": "fugalh/desert.vim",
-        "repo-introduce": "Vim 的经典原生配色。"
+        "repo-introduce": "Hans Fugal: I started with the evening colorscheme included in the distro, and tweaked a few colors to my liking. Then I decided to do a major overhaul and give the whole thing a desert evening sort of feel. I find it a very pleasing, easy-on-the-eyes theme."
+    },
+    {
+        "name": "Vivid Chalk",
+        "color-scheme": {
+            "bar-color": "#222220",
+            "tabbar-color": "#222220",
+            "back-color": "#414C3B",
+            "title-color": "#FFFFFF",
+            "switch-color": "#FF6600",
+            "text-color": "#616161",
+            "text-show-color": "#FFFFFF",
+            "text-light-color": "#FF6600",
+            "text-highlight-color": "#CCFF33",
+            "text-highhighlight-color": "#FFA0A0",
+            "text-link-color": "#F1C436",
+            "button-normal-color": "#E3B735",
+            "button-selected-color": "#FF6600",
+            "shadow-color": "#000000"
+        },
+        "status-bar-style": "light-content",
+        "user-login": "Desgard",
+        "user-avatar-url": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+        "repo-fullname": "tpope/vim-vividchalk",
+        "repo-introduce": "This colorscheme is based on the Vibrant Ink theme for TextMate. The original theme was biased towards Ruby on Rails and this colorscheme continues that tradition.  In addition to the GUI, 256, 88, and even 16 color terminals are all supported. "
+    },
+    {
+        "name": "Ocean Deep",
+        "color-scheme": {
+            "bar-color": "#202030",
+            "tabbar-color": "#202030",
+            "back-color": "#103040",
+            "title-color": "#E8EEE0",
+            "switch-color": "#70E070",
+            "text-color": "#606080",
+            "text-show-color": "#80A0B0",
+            "text-light-color": "#9FC6BF",
+            "text-highlight-color": "#D4D4C3",
+            "text-highhighlight-color": "#D197D9",
+            "text-link-color": "#00E5EE",
+            "button-normal-color": "#AC96F8",
+            "button-selected-color": "#FF6600",
+            "shadow-color": "#000000"
+        },
+        "status-bar-style": "light-content",
+        "user-login": "Desgard",
+        "user-avatar-url": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+        "repo-fullname": "vim-scripts/oceandeep",
+        "repo-introduce": "dark colorscheme, pleasant, mainly blue and blueish-green, based on Nightshimmer (vimscript #328) by Niklas Lindström (http://vim.sourceforge.net/profile.php?user_id=577); "
+    },
+    {
+        "name": "VIM Torte",
+        "color-scheme": {
+            "bar-color": "#2A2A2A",
+            "tabbar-color": "#2A2A2A",
+            "back-color": "#1E1E1E",
+            "title-color": "#D8D8D8",
+            "switch-color": "#70E070",
+            "text-color": "#111111",
+            "text-show-color": "#D8D8D8",
+            "text-light-color": "#D25252",
+            "text-highlight-color": "#D9E577",
+            "text-highhighlight-color": "#FFC600",
+            "text-link-color": "#BED6FF",
+            "button-normal-color": "#BFA4A4",
+            "button-selected-color": "#EFC090",
+            "shadow-color": "#000000"
+        },
+        "status-bar-style": "light-content",
+        "user-login": "Desgard",
+        "user-avatar-url": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vim/vim.png",
+        "repo-fullname": "vim-scripts/torte.vim",
+        "repo-introduce": "Dark colorscheme, uses grey/green/yellow text on black. No bold chars (better for small fonts)."
     }
 ]

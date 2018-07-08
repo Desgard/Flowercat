@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Material-green",
+        "color-scheme": {
+            "bar-color": "#109D58",
+            "tabbar-color": "#EEEEEE",
+            "back-color": "#EEEEEE",
+            "title-color": "#FEFEFE",
+            "switch-color": "#FEFEFE",
+            "text-color": "#181818",
+            "text-show-color": "#6F6F6F",
+            "text-light-color": "#1F2021",
+            "text-highlight-color": "#3A81F5",
+            "text-highhighlight-color": "#D54742",
+            "text-link-color": "#3A81F5",
+            "button-normal-color": "#8B8B8B",
+            "button-selected-color": "#109D58",
+            "shadow-color": "#181818"
+        },
+        "status-bar-style": "light-content",
+        "user-login": "oneofai",
+        "user-avatar-url": "https://avatars3.githubusercontent.com/u/16975429?s=400a&v=4",
+        "repo-fullname": "oneofai/Flowercat",
+        "repo-introduce": "原谅绿."
+    }
+]
