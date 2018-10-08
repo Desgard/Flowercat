@@ -12,5 +12,14 @@
             "image": "https://avatars3.githubusercontent.com/u/16975429?s=400a&v=4",
             "url": "https://raw.githubusercontent.com/oneofai/Flowercat/master/theme-material-green.json"
         }
-    }
+    },
+    "topics": [
+        "vim", 
+        "algorithm",
+        "ios",
+        "android",
+        "blockchain",
+        "compiler",
+        "swift"
+    ]
 }
